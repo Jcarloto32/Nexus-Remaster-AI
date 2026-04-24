@@ -19,7 +19,7 @@ Nexus Remaster AI
 ​Use 32 bits para celulares mais antigos.
 
 ​Proxima versao (1.1)
-​Lancamento marcado para 27 de Junho.
+​Lancamento marcado para  27 de Junho.
 
 ​Vou colocar mais temas.
 
