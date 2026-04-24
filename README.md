@@ -1,4 +1,5 @@
 Nexus Remaster AI
+
 ​Interface leve para Android focada em quem usa Termux e Mobox. Fiz esse app pra ser direto: abre rápido, nao gasta memoria e ja lanca o que precisa.
 ​O que o app faz
 ​Nao reseta as configuracoes (Memoria Eterna)
